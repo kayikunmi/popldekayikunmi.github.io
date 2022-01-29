@@ -8923,9 +8923,9 @@
                     })
                 })
             })
-        }, ee = ["movie", "hadid", "bella", "malik", "kylie", "stormi", "kanye", "drake", "adele", "swift", "album", "photo", "blind", "items", "rhobh", "dixie", "kelly", "jonas", "arrow", "suits", "skins", "oprah", "obama", "janet", "harry", "nicki", "cardi", "angus", "ellen", "olsen", "reese", "raven", "milie", "jaden", "twins", "gaten", "insta", "tweet", "snaps", "dwayne", "laroi", "quavo", "drake", "travis", "kravis", "ciara", "polog", "kenan", "watch", "radio", "music", "fonda", "hawke", "alvin", "alien", "media"], 
+        }, ee = ["vlogs","egirl","movie", "sayso", "vogue", "conan", "dyson", "lingo", "maury", "weeds", "hotel", "dolly", "slang", "binge", "extra", "shook", "salty", "lizzo" , "music", "phone", "crown", "snoop", "salma", "hayek", "rhonj", "bravo", "rhony", "greys", "cable", "osaka", "venus", "ariel", "bamabi", "cobra", "heidi", "ghost", "tenet", "shrek", "evita", "joker", "venom", "walle", "toxic", "mandy", "creep" , "hadid", "bella", "malik", "kylie", "stormi", "kanye", "drake", "adele", "swift", "album", "photo", "blind", "items", "rhobh", "dixie", "kelly", "jonas", "arrow", "suits", "skins", "oprah", "obama", "janet", "harry", "nicki", "cardi", "angus", "ellen", "olsen", "reese", "raven", "milie", "jaden", "twins", "gaten", "insta", "tweet", "snaps", "dwayne", "laroi", "quavo", "drake", "travis", "kravis", "ciara", "polog", "kenan", "watch", "radio", "music", "fonda", "hawke", "alvin", "alien", "media"], 
         ae = function() {
-            var e = new Date("January 28, 2022 00:00:00").valueOf()
+            var e = new Date("January 29, 2022 00:00:00").valueOf()
               , t = Date.now()
               , a = 864e5
               , n = Math.floor((t - e) / a);
@@ -10154,25 +10154,49 @@
                     className: "flex justify-center mb-1 mt-4",
                     children: [(0,
                     J.jsx)(ie, {
-                        value: "S",
+                        value: "M",
                         status: "correct"
                     }), (0,
                     J.jsx)(ie, {
-                        value: "W"
+                        value: "E"
+                    }), (0,
+                    J.jsx)(ie, {
+                        value: "D"
                     }), (0,
                     J.jsx)(ie, {
                         value: "I"
                     }), (0,
                     J.jsx)(ie, {
-                        value: "F"
-                    }), (0,
-                    J.jsx)(ie, {
-                        value: "T"
+                        value: "A"
                     })]
                 }), (0,
                 J.jsx)("p", {
                     className: "text-sm text-gray-500",
-                    children: "The letter S is in the word and in the correct spot."
+                    children: "The letter M is in the word and in the correct spot."
+                }), (0,
+                J.jsxs)("div", {
+                    className: "flex justify-center mb-1 mt-4",
+                    children: [(0,
+                    J.jsx)(ie, {
+                        value: "K"
+                    }), (0,
+                    J.jsx)(ie, {
+                        value: "Y"
+                    }), (0,
+                    J.jsx)(ie, {
+                        value: "L",
+                        status: "present"
+                    }), (0,
+                    J.jsx)(ie, {
+                        value: "I"
+                    }), (0,
+                    J.jsx)(ie, {
+                        value: "E"
+                    })]
+                }), (0,
+                J.jsx)("p", {
+                    className: "text-sm text-gray-500",
+                    children: "The letter L is in the word but in the wrong spot."
                 }), (0,
                 J.jsxs)("div", {
                     className: "flex justify-center mb-1 mt-4",
@@ -10181,46 +10205,22 @@
                         value: "S"
                     }), (0,
                     J.jsx)(ie, {
-                        value: "N"
+                        value: "U"
                     }), (0,
                     J.jsx)(ie, {
-                        value: "A",
-                        status: "present"
+                        value: "I"
                     }), (0,
                     J.jsx)(ie, {
-                        value: "K"
-                    }), (0,
-                    J.jsx)(ie, {
-                        value: "E"
-                    })]
-                }), (0,
-                J.jsx)("p", {
-                    className: "text-sm text-gray-500",
-                    children: "The letter A is in the word but in the wrong spot."
-                }), (0,
-                J.jsxs)("div", {
-                    className: "flex justify-center mb-1 mt-4",
-                    children: [(0,
-                    J.jsx)(ie, {
-                        value: "A"
-                    }), (0,
-                    J.jsx)(ie, {
-                        value: "L"
-                    }), (0,
-                    J.jsx)(ie, {
-                        value: "B"
-                    }), (0,
-                    J.jsx)(ie, {
-                        value: "U",
+                        value: "T",
                         status: "absent"
                     }), (0,
                     J.jsx)(ie, {
-                        value: "M"
+                        value: "S"
                     })]
                 }), (0,
                 J.jsx)("p", {
                     className: "text-sm text-gray-500",
-                    children: "The letter U is not in the word in any spot."
+                    children: "The letter T is not in the word in any spot."
                 })]
             })
         }
@@ -11027,7 +11027,7 @@
                 children: [(0,
                 J.jsxs)("div", {
                     className: "w-full top-0 py-3 px-3 text-center text-white bg-violet-900",
-                    children: ["Brought to you by ", (0,
+                    children: ["Created by Kayikunmi from ", (0,
                     J.jsx)("a", {
                         className: "underline font-bold",
                         href: "https://www.instagram.com/internetgirlspod/",
