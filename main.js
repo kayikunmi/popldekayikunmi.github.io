@@ -10118,21 +10118,21 @@
                 children: (0,
                 J.jsxs)("p", {
                     className: "text-sm text-gray-500",
-                    children: ["This is a Taylor Swift-themed clone of the game Wordle created by the super talented ", (0,
+                    children: ["This is a Pop Culture facts themed clone of the game Wordle created by ", (0,
                     J.jsx)("a", {
                         href: "https://www.hannahmariepark.com/",
                         className: "underline font-bold",
                         children: "Hannah Park"
-                    }), " and slightly modified by Holy Swift Podcast -", " ", (0,
+                    }), " and modified by Kayikunmi -", " ", (0,
                     J.jsx)("a", {
                         href: "https://github.com/hannahcode/wordle",
                         className: "underline font-bold",
-                        children: "check out Hannah's code"
+                        children: "Here's the original code"
                     }), " ", "or", " ", (0,
                     J.jsx)("a", {
                         href: "https://www.powerlanguage.co.uk/wordle/",
                         className: "underline font-bold",
-                        children: "play the original here."
+                        children: "Play the original here."
                     })]
                 })
             })
